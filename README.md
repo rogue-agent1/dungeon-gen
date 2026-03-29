@@ -1,8 +1,6 @@
 # dungeon-gen
 
-Procedural dungeon generator (BSP).
-
-Zero dependencies. Python 3.8+.
+Procedural dungeon generator (BSP tree). Zero-dependency, single-file Python CLI.
 
 ## Usage
 
